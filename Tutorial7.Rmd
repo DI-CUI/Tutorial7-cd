@@ -26,12 +26,9 @@ header-includes:
 - \usepackage{verbatim}
 ---
 
-
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
-
-
 
 \section*{Tutorial objectives:}
 \begin{tcolorbox}
@@ -51,7 +48,7 @@ options(htmltools.dir.version = FALSE)
 
 
 #  Forks, pull request, commits and inspecting differences between commits (work in pairs)
-
+create conflict2
 During this exercise make sure that you use your terminal/cli and also GitKraken to see the repo tree. Also keep an eye on your GitHub repo.
 
 1. Create a new *public* GitHub repository called *Tutorial7-XX* and replace *XX* with your initials. Include a *README.md* file.
