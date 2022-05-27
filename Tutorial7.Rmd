@@ -48,6 +48,7 @@ options(htmltools.dir.version = FALSE)
 
 
 #  Forks, pull request, commits and inspecting differences between commits (work in pairs)
+# create a conflict
 
 During this exercise make sure that you use your terminal/cli and also GitKraken to see the repo tree. Also keep an eye on your GitHub repo.
 
