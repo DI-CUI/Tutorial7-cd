@@ -13,6 +13,7 @@ output:
     toc: yes
     toc_depth: 2
     keep_tex: yes
+
 subtitle: Tutorial 7
 header-includes:
 - \usepackage{titling}
@@ -25,6 +26,7 @@ header-includes:
 - \sectionfont{\color{olive}}
 - \usepackage{verbatim}
 ---
+
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
@@ -48,7 +50,7 @@ options(htmltools.dir.version = FALSE)
 
 
 #  Forks, pull request, commits and inspecting differences between commits (work in pairs)
-create conflict2
+
 During this exercise make sure that you use your terminal/cli and also GitKraken to see the repo tree. Also keep an eye on your GitHub repo.
 
 1. Create a new *public* GitHub repository called *Tutorial7-XX* and replace *XX* with your initials. Include a *README.md* file.
